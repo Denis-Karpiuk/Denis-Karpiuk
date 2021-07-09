@@ -1,4 +1,4 @@
-<img src="./src/icos/iconsreact.png" width="100">
+<img src="./src/icons/react.png" width="100">
 ## Hi there 👋
 
 ## My name is Denis.
@@ -11,12 +11,16 @@
 
 ## Languages & Technologiest & Libraryies:
 
+<span>
 <img src="./src/icons/reactLogo.png" width="100">
-<img src="./src/icons/javascript.png" width="100">
-<img src="./src/icons/typescript.png" width="100">
-<img src="./src/icons/redux.png" width="100">
-<img src="./src/icons/html.png" width="100">
-<img src="./src/icons/css3.png" width="100">
+</span>
+
+<span><img src="./src/icons/javascript.png" width="100"></span>
+<span><img src="./src/icons/typescript.png" width="100"></span>
+<span><img src="./src/icons/redux.png" width="100"></span>
+<span><img src="./src/icons/html.png" width="100"></span>
+<span><img src="./src/icons/css3.png" width="100"></span>
+
 <img src="./src/icons/bootstrap.png" width="100">
 <img src="./src/icons/material.png" width="100">
 <img src="./src/icons/visual.png" width="100">
