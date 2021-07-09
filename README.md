@@ -1,6 +1,6 @@
 <img src="./src/icons/react.png" width="100%">
 
-## Hi there 👋
+# Welcome
 
 ## My name is Denis.
 
@@ -24,6 +24,8 @@
 <span><img src="./src/icons/material.png" width="5%"></span>
 <span><img src="./src/icons/visual.png" width="5%"></span>
 <span><img src="./src/icons/github.png" width="5%"></span>
+
+***
 
 ### My contacts:
 
