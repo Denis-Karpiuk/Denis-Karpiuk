@@ -2,9 +2,7 @@
 
 # Welcome
 
-## My name is Denis.
-
-## I am Frontend React Developer.
+## My name is Denis. <br>I am Frontend React Developer.
 
 ### **_Programming is not a science, but a craft._**
 
