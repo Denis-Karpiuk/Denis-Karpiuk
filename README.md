@@ -24,6 +24,6 @@
 
 ## My contacts:
 
+[<img src="./src/icons/linkedin.png" width="100">][https://www.linkedin.com/in/denis-karpiuk-31b0a9212/]
 [<img src="./src/icons/telegram.png" width="100">][https://t.me/deniskarpuik]
 [<img src="./src/icons/gmail.png" width="100">][dzianiskarpiuk@gmail.com]
-[<img src="./src/icons/linkedin.png" width="100">][]
