@@ -1,16 +1,29 @@
-### Hi there 👋
+<img src="./src/icos/iconsreact.png" width="100">
+## Hi there 👋
 
-<!--
-**Denis-Karpiuk/Denis-Karpiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Denis.
 
-Here are some ideas to get you started:
+## I am Frontend React Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **_Programming is not a science, but a craft._**
+
+**_Richard Stallman_**
+
+## Languages & Technologiest & Libraryies:
+
+<img src="./src/icons/reactLogo.png" width="100">
+<img src="./src/icons/javascript.png" width="100">
+<img src="./src/icons/typescript.png" width="100">
+<img src="./src/icons/redux.png" width="100">
+<img src="./src/icons/html.png" width="100">
+<img src="./src/icons/css3.png" width="100">
+<img src="./src/icons/bootstrap.png" width="100">
+<img src="./src/icons/material.png" width="100">
+<img src="./src/icons/visual.png" width="100">
+<img src="./src/icons/github.png" width="100">
+
+## My contacts:
+
+[<img src="./src/icons/telegram.png" width="100">][https://t.me/deniskarpuik]
+[<img src="./src/icons/gmail.png" width="100">][dzianiskarpiuk@gmail.com]
+[<img src="./src/icons/linkedin.png" width="100">][]
