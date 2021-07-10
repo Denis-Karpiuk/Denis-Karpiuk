@@ -7,6 +7,7 @@
 ### **_Programming is not a science, but a craft._**
 
 **_Richard Stallman_**
+***
 
 ### Languages & Technologiest & Libraryies:
 
@@ -29,3 +30,4 @@
 <a href="mailto:DzianisKarpiuk@gmail.com"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/gmail.png" alt="" width="3%"></a>
 <a href="https://www.linkedin.com/in/denis-karpiuk-31b0a9212/"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/linkedin.png" alt="" width="3%"></a>
 <a href="https://t.me/DenisKarpuik"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/telegram.png" alt="" width="3%"></a>
+***
