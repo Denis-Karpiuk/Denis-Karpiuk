@@ -26,4 +26,6 @@
 ***
 
 ### My contacts:
-<a href="https://webref.ru"><img src="image/shark.jpg" alt=""></a>
+<a href="DzianisKarpiuk@gmail.com"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/gmail.png" alt="" width="4%"></a>
+<a href="https://www.linkedin.com/in/denis-karpiuk-31b0a9212/"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/linkedin.png" alt="" width="4%"></a>
+<a href="https://t.me/DenisKarpuik"><img src="https://github.com/Denis-Karpiuk/Denis-Karpiuk/blob/main/src/icons/telegram.png" alt="" width="4%"></a>
